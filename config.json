@@ -1,0 +1,39 @@
+{
+  "host": "127.0.0.1",
+  "port": 5000,
+  "passphrase": "nerve-tcp-demo-7Kq29xLm",
+  "salt": "nerve-assignment-salt",
+  "interval": 1.0,
+  "collection": {
+    "SetA": [
+      {
+        "One": 1,
+        "Two": 2
+      }
+    ],
+    "SetB": [
+      {
+        "Three": 3,
+        "Four": 4
+      }
+    ],
+    "SetC": [
+      {
+        "Five": 5,
+        "Six": 6
+      }
+    ],
+    "SetD": [
+      {
+        "Seven": 7,
+        "Eight": 8
+      }
+    ],
+    "SetE": [
+      {
+        "Nine": 9,
+        "Ten": 10
+      }
+    ]
+  }
+}
